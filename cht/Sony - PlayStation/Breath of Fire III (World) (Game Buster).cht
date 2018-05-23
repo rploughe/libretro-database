@@ -28,3 +28,14 @@ cheat6_desc = "Infinite magic P3"
 cheat6_code = "8014619A+03E7"
 cheat6_enable = false 
 
+Cheat7_desc = "Have all Dragon Genes-1"
+cheat7_code = "80145548+FFFF"
+cheat7_enable = "false"
+
+cheat8_desc = "Have all Dragon Genes-2"
+cheat8_code = "8014554A+FFFF"
+cheat8_enable = "false"
+
+cheat9_desc = "Have Master's Rod"
+cheat9_code = "801451F8+330E"
+cheat9_enable = "false"
